@@ -1,2 +1,0 @@
-# thermal-scanning
-no
